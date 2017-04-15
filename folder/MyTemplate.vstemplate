@@ -1,0 +1,52 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Task3_chenavrahm</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>Web</ProjectType>
+    <ProjectSubType>CSharp</ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Task3_chenavrahm</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ProjectName.webproj" File="ProjectName.webproj" ReplaceParameters="true">
+      <Folder Name="images" TargetFolderName="images">
+        <ProjectItem ReplaceParameters="false" TargetFileName="17505179_10202914836508492_6225798584965339905_o.jpg">17505179_10202914836508492_6225798584965339905_o.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="5-1_1024x1024.jpg">5-1_1024x1024.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="d41fe82a-beb4-4562-b8c9-88e0ac05de86.jpg">d41fe82a-beb4-4562-b8c9-88e0ac05de86.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="download.png">download.png</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="images.jpg">images.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="instagram-icon_1057-2227.jpg">instagram-icon_1057-2227.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="Instagram_logo.png">Instagram_logo.png</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="jj.PNG">jj.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="jukui.PNG">jukui.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="חי.PNG">vstg0001.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="חל.PNG">vstg0002.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="כלכ.PNG">vstg0003.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="‏‏לכידה.PNG">vstg0004.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="ס.PNG">vstg0005.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="פסיכ.PNG">vstg0006.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="צמיד.PNG">vstg0007.PNG</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="תפ.PNG">vstg0008.PNG</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="index.html">index.html</ProjectItem>
+      <Folder Name="jScripts" TargetFolderName="jScripts">
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.12.0.min.js">jquery-1.12.0.min.js</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="page1.html">page1.html</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="page2.html">page2.html</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="page3.html">page3.html</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="page4.html">page4.html</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="page5.html">page5.html</ProjectItem>
+      <Folder Name="styles" TargetFolderName="styles">
+        <ProjectItem ReplaceParameters="true" TargetFileName="myStyle.css">myStyle.css</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="reset.css">reset.css</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.config">Web.config</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

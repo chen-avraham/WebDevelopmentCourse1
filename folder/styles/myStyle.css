@@ -1,0 +1,157 @@
+body 
+{
+    direction:rtl;
+    margin:0 auto;
+    width: 900px;
+    background-color:lightseagreen; 
+    animation-name:back; 
+    animation-duration:2S;
+} 
+
+
+
+body h1 {
+    margin-right:107px;
+    margin-bottom: 80px;
+    margin-top:10px;
+    font-size:60px; 
+    color:fuchsia;
+    text-align: center;
+}
+h1.hebrew {
+    margin-right: 400px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    font-size:60px; 
+    color:fuchsia;
+
+
+}
+body header nav ul li {
+    margin: 0 auto;
+    display:inline-block;
+    float:right;
+        text-align: center;
+
+
+}
+body header {
+
+    margin-left:300px; 
+    width: 960px; 
+    margin-right:230px;
+}
+body header a {
+    margin-top:30px; 
+    margin-left:66px;
+    padding: 5px 5px;
+    list-style:none; 
+    text-decoration:none; 
+    color:indigo;
+    border-radius:5px 5px; 
+    border-color: purple;
+    font-size:20pt; 
+    font-weight:bold;
+
+} 
+body header a:hover {
+    background-color:purple;
+   
+
+
+} 
+
+body header  a:active {
+    background-color:purple;
+    
+}
+#container {
+
+    background-image:url('../images/17505179_10202914836508492_6225798584965339905_o.jpg');
+       height:540px; 
+    width:810px;
+    margin:100px; 
+
+
+} 
+.content {
+
+    margin-right:180px;
+}
+.content p {
+    color:springgreen; 
+    font-size:19pt;
+    margin-top:100px;
+    margin-bottom:30px;
+
+} 
+.content img {
+    width:700px; 
+    height:500px;
+
+
+}
+p#last {
+    color:springgreen;
+    font-size:22pt;
+    margin-top:100px; 
+    margin-bottom:0px;
+} 
+p#about {
+    font-size:19pt;
+    margin-top:10px;
+
+} 
+.info  {
+    background-color:pink;
+    animation-name:back; 
+    animation-duration:2S;
+}  
+
+    
+
+.info img {
+    width:48px; 
+    height:48px;
+
+}
+
+#s{
+    width:140px;
+    margin:0 auto;
+}
+
+#s img{
+    -webkit-transition: all 500ms linear;
+-moz-transition: all 500ms linear;
+-ms-transition: all 500ms linear;
+-o-transition: all 500ms linear;
+transition: all 500ms linear;
+}
+
+#instagram{
+    display:inline-block;
+    background-image:url("../images/http://localhost:59047/images/Instagram_logo.png");
+}
+
+#facebook {
+    margin-right:12.5px;
+    display:inline-block;
+    background-image: url("../http://localhost:59047/images/download.png");    
+}
+
+#facebook:hover img{
+  width:60px;
+  height:60px;
+}
+
+#facebook:hover{
+    margin-right:0;
+}
+
+#instagram:hover img{
+  width:60px;
+  height:60px;
+}
+
+
